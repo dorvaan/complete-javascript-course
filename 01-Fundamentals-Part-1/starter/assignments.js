@@ -1,6 +1,6 @@
 // Lecture 1 - Variables Assignment
-let country = "United States";
-let continent = "North America";
+let country = 'United States';
+let continent = 'North America';
 let population = 329000000;
 
 console.log(country);
@@ -15,3 +15,4 @@ console.log(typeof population);
 console.log(typeof country);
 console.log(typeof language);
 
+const x = '23';
