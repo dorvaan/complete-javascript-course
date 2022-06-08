@@ -7,3 +7,13 @@ if (canZoom) {
     console.log(`Cannot zoom for ${yearsLeft} years :(`)
 }
 
+
+let n = '1' + 1; //Coercion.  Equals 11.
+n = n - 1;
+console.log(n);
+
+// 5 Falsy Values:
+// 0, '', undefined, null, NaN
+
+
+
